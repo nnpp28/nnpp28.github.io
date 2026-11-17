@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    color: lightslategray;
+    font-size: 40px;
+    line-height: 1.5;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+h1 {
+    color: darkslateblue;
+    font-size: 24px;
+}
+
+p {
+    color: darkslategray;
+    font-size: 16px;
+    font-style: normal;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
